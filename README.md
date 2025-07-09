@@ -3,7 +3,7 @@
   
   👀 I’m interested in website and game development <br>
   🌱 I have skills in C#, Java & Javascript <br>
-  💻 I'm studying Computer Science at Colégio Técnico de Campinas - COTUCA
+  💻 I studied Computer Science at Colégio Técnico de Campinas - COTUCA
 </samp>
 
 ## <div> 
